@@ -1,7 +1,7 @@
 ## Olá, seja bem vindo(a) ao meu perfil!😊\o/
 
-- 🔭Um aplicativo de apresentação da cidade aonde moro...
-- 🌱 Estudando linguagem C
+📱Um aplicativo de apresentação da cidade aonde moro...
+💻Estudando linguagem C...
 
 <div> 
   <a href="https://www.linkedin.com/in/Yuri Cardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
