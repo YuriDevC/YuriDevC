@@ -1,7 +1,6 @@
 ## Olá, seja bem vindo(a) ao meu perfil!😊\o/
 
 📱Desenvolvendo um aplicativo de apresentação da cidade aonde moro...
-
 💻Estudando linguagem C...
 
 <div> 
